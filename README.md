@@ -32,11 +32,11 @@ Each component folder should contain its own tests and styles.  Related componen
     |-- components
         |-- ExampleComponent
             |-- ExampleComponent.js
-            |-- index.test.js
-            |-- index.scss
+            |-- ExampleComponent.test.js
+            |-- ExampleComponent.css
         |-- Shared
             |-- SharedExample
                 |-- SharedExample.js
-                |-- index.test.js
-                |-- index.scss
+                |-- SharedExample.test.js
+                |-- SharedExample.css
 ```
