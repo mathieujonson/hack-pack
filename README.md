@@ -12,11 +12,11 @@ Clone and install the repo.  Navigate to the directory where you want the projec
 ### Common commands
 
 - To get a local up and running:
-  `npm run dev` -     in the second window
+  `npm run start` or `yarn start`
 
 - To deploy to production we'll need to build first, then deploy:
 
-  `npm run build`
+  `npm run build` or `yarn build`
 
   `firebase deploy`
 
