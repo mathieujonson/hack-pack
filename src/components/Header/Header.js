@@ -8,6 +8,7 @@ class Header extends Component {
             <div className="header-container">
                 <Link to="/">Home</Link>
                 <Link to="/about">About</Link>
+                <Link to="/todos">Todos</Link>
             </div>
         )
     }
