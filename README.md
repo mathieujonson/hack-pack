@@ -6,9 +6,11 @@ To get started, we'll need to install [node](https://nodejs.org/en/download/).  
   `npm install -g firebase-tools`
 
 Clone and install the repo.  Navigate to the directory where you want the project to live, and run:
+
   `git clone https://github.com/mathieujonson/hack-pack.git && cd hack-pack && npm install`
 
 Alternatively, you can install with npm:
+
   `npm install hackathon-pack`
 
 ### Common commands
