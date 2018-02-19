@@ -20,7 +20,8 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "jest": "20.0.4"
+    "jest": "20.0.4",
+    "jest-cli": "20.0.4"
   },
   "description": "React app for Hackathons",
   "bugs": {
