@@ -32,6 +32,10 @@
   "keywords": [
     "react"
   ],
+  "files": [
+    "src",
+    "public"
+  ],
   "author": "Matthew Johnson",
   "license": "MIT"
 }
