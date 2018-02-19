@@ -3,6 +3,7 @@
 ### Getting Started
 
 To get started, we'll need to install [node](https://nodejs.org/en/download/).  We'll also need Firebase CLI installed:
+
   `npm install -g firebase-tools`
 
 Clone and install the repo.  Navigate to the directory where you want the project to live, and run:
@@ -16,6 +17,7 @@ Alternatively, you can install with npm:
 ### Common commands
 
 - To get a local up and running:
+
   `npm run start` or `yarn start`
 
 - To deploy to production we'll need to build first, then deploy:
