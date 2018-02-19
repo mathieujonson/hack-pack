@@ -10,10 +10,6 @@ Clone and install the repo.  Navigate to the directory where you want the projec
 
   `git clone https://github.com/mathieujonson/hack-pack.git && cd hack-pack && npm install`
 
-Alternatively, you can install with npm:
-
-  `npm install hackathon-pack`
-
 ### Common commands
 
 - To get a local up and running:
